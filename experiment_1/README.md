@@ -22,7 +22,7 @@ digitalWrite(led1, HIGH);   // در لحظه ای که دیود اول روشن 
 digitalWrite(led2, LOW);
 delay(1000);
 digitalWrite(led1, LOW);
-digitalWrite(led2, high);   // در لحظه ای که دیود دوم روشن است دیود اول خاموش می باشد
+digitalWrite(led2, HIGH);   // در لحظه ای که دیود دوم روشن است دیود اول خاموش می باشد
 delay(1000);
 }
 ```

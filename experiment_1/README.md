@@ -18,11 +18,17 @@ pinMode(led2, OUTPUT);
 }
 
 void loop() {
-digitalWrite(led1, HIGH);  // در لحظه ای که دیود اول روشن است دیود دوم خاموش می باشد
+digitalWrite(led1, HIGH);
 digitalWrite(led2, LOW);
 delay(1000);
 digitalWrite(led1, LOW);
-digitalWrite(led2, high);  // در لحظه ای که دیود دوم روشن است دیود اول خاموش می باشد
+digitalWrite(led2, high);
 delay(1000);
 }
 ```
+
+---
+
+### شرح کارکرد مدار به صورت ویدیویی 🖼️
+
+![micro and circuit](/media/microprocessor_2.gif)

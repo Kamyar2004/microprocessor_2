@@ -21,7 +21,7 @@ void loop() {
     char inputLed = Serial.read();  // خواندن تک کاراکتر ورودی سریال
     if (inputLed == 'h' || inputLed == 'H') {
       digitalWrite(led, HIGH);
-    } else if (inputLed == 'l' || inputLed == 'L') {
+    } else if (inputLed == 'l' || inputLed == 'L') {    // هندل کردن هر دو حالت کاراکتر ورودی با حرف بزرگ و حرف کوچک
       digitalWrite(led, LOW);
     }
   }

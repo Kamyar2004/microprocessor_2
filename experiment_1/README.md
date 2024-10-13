@@ -32,3 +32,9 @@ delay(1000);
 ### شرح کارکرد مدار به صورت ویدیویی 🖼️
 
 ![micro and circuit](/media/microprocessor_2.gif)
+
+---
+
+### شماتیک مدار 🗺️
+
+![schematic](/media/schematic_1.jpg)

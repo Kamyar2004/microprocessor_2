@@ -27,3 +27,9 @@ void loop() {
   }
 }
 ```
+
+---
+
+### شماتیک مدار 🗺️
+
+![schematic](/media/schematic_2.jpg)
